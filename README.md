@@ -12,3 +12,11 @@
 | `docs`   | ドキュメント関連           |
 | `style`  | コーディングスタイルの修正 |
 | `wip`    | WIP                        |
+
+## Status
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=suzuuuuu09&show_icons=true&count_private=true&theme=github_dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suzuuuuu09&theme=github_dark&count_private=true&layout=compact)
+
+![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=suzuuuuu09)
