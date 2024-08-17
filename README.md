@@ -15,8 +15,7 @@
 
 ## Status
 
-![Github Status](https://github-readme-stats.vercel.app/api?username=suzuuuuu09&show_icons=true&count_private=true&theme=github_dark)
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=suzuuuuu09&show_icons=true&count_private=true&theme=github_dark"/> <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzuuuuu09&theme=github_dark&count_private=true&layout=compact"/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suzuuuuu09&theme=github_dark&count_private=true&layout=compact)
+<img src="https://lastfm-recently-played.vercel.app/api?user=suzuuuuu09"/>
 
-![Last.fm Recently Played](https://lastfm-recently-played.vercel.app/api?user=suzuuuuu09)
