@@ -1,6 +1,6 @@
 # Hi there!👋
 
-## CommitPrefix
+## CommitPrefix(自己満)
 
 | Prefix   | Description                |
 | -------- | -------------------------- |
@@ -15,7 +15,6 @@
 
 ## Status
 
-<img height="160px" src="https://github-readme-status-clone-o843.vercel.app/api?username=suzuuuuu09&show_icons=true&count_private=true&theme=github_dark&include_all_commits=true"/> <img height="160px" src="https://github-readme-status-clone-o843.vercel.app/api/top-langs/?username=suzuuuuu09&theme=github_dark&count_private=true&layout=compact"/>
+<img height="160px" src="https://github-readme-status-clone-o843.vercel.app/api?username=suzuuuuu09&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/> <img height="160px" src="https://github-readme-status-clone-o843.vercel.app/api/top-langs/?username=suzuuuuu09&theme=dracula&count_private=true&layout=compact"/>
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=suzuuuuu09"/>
-
+<img src="https://lastfm-recently-played.vercel.app/api?user=suzuuuuu09&bg_color=282a36&count=5"/>
