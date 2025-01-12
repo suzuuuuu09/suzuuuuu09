@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=suzuuuuu09&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&background=00000000&border=EB5454&theme=dracula" />
+      <img src="https://github-readme-streak-stats-indol-sigma.vercel.app?user=suzuuuuu09&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&background=00000000&border=EB5454&theme=dracula" />
     </td>
   </tr>
 </table>
