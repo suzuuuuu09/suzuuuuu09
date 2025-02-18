@@ -2,7 +2,7 @@
 
 ## 🚀Status
 
-<img src="https://hv-cards.vercel.app/api?uid=819312869&lang=ja&bottom=center" />
+<img src="https://hv-cards.vercel.app/api/card?uid=819312869&lang=ja&bottom=center" />
 
 <table>
   <tr>
