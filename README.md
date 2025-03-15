@@ -2,7 +2,7 @@
 
 ## 🚀Status
 
-<a href='https://github-hv-cards.vercel.app'><img src='https://github-hv-cards.vercel.app/api/card/gi/?uid=819312869&lang=jp&bottom=center' alt='Github HoYoverse Card'></a>
+<a href='https://github-hoyoverse-cards.vercel.app'><img src='https://github-hoyoverse-cards.vercel.app/api/card/gi/?uid=819312869&lang=ja&bottom=center' alt='Github HoYoverse Card'></a>
 
 <table>
   <tr>
