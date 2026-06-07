@@ -2,7 +2,7 @@
 
 ## 🚀 Status
 
-<a href='https://github-hoyoverse-cards.vercel.app'><img src='https://github-hoyoverse-cards.vercel.app/api/card/gi/?uid=819312869&lang=ja&bottom=center' alt='Github HoYoverse Card'></a>
+<!-- <a href='https://github-hoyoverse-cards.vercel.app'><img src='https://github-hoyoverse-cards.vercel.app/api/card/gi/?uid=819312869&lang=ja&bottom=center' alt='Github HoYoverse Card'></a> -->
 
 <table>
   <tr>
@@ -24,3 +24,9 @@
     </td>
   </tr>
 </table>
+
+## 📦 My Product
+- [YOMi](https://suzuuuuu09.com/product/yomi)
+- [しゃどうぶろっかー](https://suzuuuuu09.com/product/shadow-blocker)
+- [まつすぽっ！](https://suzuuuuu09.com/product/matsusupo)
+- [その他](https://suzuuuuu09.com/product)
